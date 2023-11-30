@@ -6,6 +6,12 @@
 
 <hr>
 
-- Main-Index: core.pivot
+- Main.Index: core.pivot
+
+<hr>
+
+# Attention
+
+运行项目时，必须进入到 Index 所在的当前目录，执行`python $[Index].py`，而不是执行`python src/$[Index].py`
 
 <hr>
